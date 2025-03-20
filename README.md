@@ -5,7 +5,7 @@ USB Flash Drive (16GB)
 Window ISO File (https://www.microsoft.com/en-ca/software-download/windows10)
 Rufus (https://rufus.ie/en/#google_vignette)
 
-##Steps
+## Steps
 Download Rufus from the Rufus website.
 Insert your USB drive.
 Open Rufus.
